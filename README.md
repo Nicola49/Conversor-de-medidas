@@ -9,3 +9,5 @@ CASO "MOEDAS":
 - Digite o VALOR a ser convertido;
 - Digite o número que represente a MOEDA vai ser convertido pela primeira;
 - Terminal mostrará o resultado da conversão;
+
+O mesmo acontece no caso das outras opções e conversão.
